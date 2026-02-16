@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最後の一本 [Remix]",
+  "base_artist": "ジャパニーズ マゲニーズ",
+  "createdAt": "2026-02-16T15:41:32.213463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後の一本 (feat. J-REXXX)",
+      "artist": "ジャパニーズマゲニーズ",
+      "has_synced": false,
+      "path": "select/pl_01_最後の一本_(feat._J-REXXX)_ジャパニーズマゲニーズ.txt"
+    }
+  ]
+}
